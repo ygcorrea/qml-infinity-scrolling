@@ -8,7 +8,6 @@ ApplicationWindow {
     height: 600
     title: "Mocked Games"
 
-    // Define the JavaScript array for mocked games
     property var allGames: [{
             "title": "Game 1",
             "description": "Description for Game 1"
@@ -123,11 +122,706 @@ ApplicationWindow {
         }, {
             "title": "Game 3",
             "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
+        }, {
+            "title": "Game 3",
+            "description": "Description for Game 3"
         }]
 
-    property int visibleGameCount: 3
     property bool allGamesLoaded: false
     property real prevContentY: 0
+
+    property int visibleGameCount: 39
+
+    property int lastLoadedGameIndex: -1
+
+    // Property to store the model for the Flow
+    ListModel {
+        id: flowModel
+    }
 
     Flickable {
         id: flickable
@@ -136,10 +830,11 @@ ApplicationWindow {
         boundsBehavior: Flickable.StopAtBounds
 
         onContentYChanged: {
-            if (contentY + flickable.height >= contentHeight - 10
+            if (!allGamesLoaded
+                    && contentY + flickable.height >= contentHeight - 10
                     && prevContentY < contentY) {
+                console.log('call the backend!')
                 onReachedBottom()
-                console.log('chegou')
             }
             prevContentY = contentY
         }
@@ -150,21 +845,21 @@ ApplicationWindow {
             spacing: 10
 
             Repeater {
-                model: Math.min(allGames.length, visibleGameCount)
+                model: flowModel
                 delegate: Rectangle {
-                    width: 300
-                    height: 300
+                    width: 150
+                    height: 150
                     color: 'red'
 
                     ColumnLayout {
                         anchors.fill: parent
 
                         Text {
-                            text: allGames[index].title
+                            text: model.title
                         }
 
                         Text {
-                            text: allGames[index].description
+                            text: model.description
                         }
                     }
                 }
@@ -173,12 +868,24 @@ ApplicationWindow {
     }
 
     function onReachedBottom() {
-        if (visibleGameCount < allGames.length) {
-            var remainingGames = allGames.length - visibleGameCount
-            visibleGameCount += Math.min(3, remainingGames)
-        } else {
+        if (!allGamesLoaded) {
+            var nextIndex = lastLoadedGameIndex + 1
+            var remainingGames = allGames.length - nextIndex
+            var batchToLoad = Math.min(visibleGameCount, remainingGames)
 
-            allGamesLoaded = true
+            for (var i = nextIndex; i < nextIndex + batchToLoad; i++) {
+                flowModel.append(allGames[i])
+            }
+
+            lastLoadedGameIndex = nextIndex + batchToLoad - 1
+
+            if (lastLoadedGameIndex >= allGames.length - 1) {
+                allGamesLoaded = true
+            }
         }
+    }
+
+    Component.onCompleted: {
+        onReachedBottom()
     }
 }
